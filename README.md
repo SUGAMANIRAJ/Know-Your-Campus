@@ -9,7 +9,7 @@ An interactive, web-based campus map of **Government College of Engineering, Sal
 
 ## Preview
 
-![GCE Salem Campus Map Preview](preview/)
+[GCE Salem Campus Map Preview](preview/)
 
 ---
 
